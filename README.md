@@ -3,6 +3,7 @@
 ## Sample Output
 
 ### Successful Purchase
+![normal_case](https://github.com/user-attachments/assets/51bf4a30-c0f2-4d5e-a4b5-45e265072b3f)
 ```
 ** Shipment notice **
 2x Premium Cheddar Cheese        400g
@@ -23,6 +24,7 @@ END.
 ```
 
 ### Error Cases
+![edge_cases](https://github.com/user-attachments/assets/83ac0601-ea11-4268-89d9-f6c262447805)
 
 **Empty Cart:**
 ```
